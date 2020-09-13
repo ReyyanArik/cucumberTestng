@@ -1,9 +1,0 @@
-runner\HomePageRunner.class
-runner\Default.class
-runner\AbstractTestNGCucumberParallelTests.class
-runner\BlogPageRunner.class
-stepdefs\HomePageSteps.class
-ApplicationPages\Blogpage.class
-ApplicationPages\Homepage.class
-ConstantVariables\Constant.class
-stepdefs\BlogPageSteps.class
